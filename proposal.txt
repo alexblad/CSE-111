@@ -1,0 +1,48 @@
+CSE 111 Proposal for a Student Chosen Program
+
+    (This is a proposal. All proposals are written with our best
+    knowledge at the beginning of a project. As we progress from the
+    beginning to the end of a project, we gain more knowledge, and we
+    change some of our proposed ideas. This is part of completing any
+    project and is fine.  However, we still must write a proposal so
+    that our teachers or supervisors know what we intend to do. Please
+    answer each of the following questions to the best of your
+    knowledge.)
+
+1. What is the title of your program?
+The title of my program is Kinematics Calculator. 
+
+2. What real-world problem will your program address or help to solve?
+This program will help to solve the redundancy involved with solving Kinematics Problems in Physics. 
+Physics students often work with kinematics problems that are very similar, but because of differences in 
+magnitudes, angles, masses, etc have to do many calculations to answer simple questions. This program
+will help cut down on the amount of manual calculations required to solve a problem, so that students can 
+focus on thinking about the problems critically. 
+
+3. What will you learn from developing this program?
+I will gain a greater understanding of the Kinematics equations themselves, as well as how to use the tkinter
+framework to create a GUI for the program. 
+
+4. What Python modules will your program use?
+I will use the math and tkinter libraries. There may be more that I end up using as the project progresses. 
+
+5. Will you separate your Python program into functions that each
+perform a single task?
+My program will be separated into different functions that each preform a single task. 
+    
+    
+    (Remember that the most reusable functions don't get user input and
+    don't print results but instead have parameters and return a result.
+    Functions that get user input and print results are important and do
+    useful work but are not easily reusable.)
+
+    (Remember also that it's hard to test functions that get user input
+    and print results. It's easy to test functions that don't get user
+    input and don't print results but instead have parameters and return
+    a result. Therefore, you should write most of your program functions
+    to have parameters and return a result.)
+
+6. Will you write test functions to test at least two of your program
+functions?
+I will write test functions for at least two of my program functions. 
+
